@@ -1,0 +1,149 @@
+[
+  {
+    "lat": "50.176474",
+    "lng": "12.14146",
+    "labelText": "NFT",
+    "popupText": "Alberto Masi (Head of Application Specialist)Email: alberto@netzsch.com, Steven Min (President) Email: kk@netzsch.com",
+    "imageSrc": "i/Alberto.jpg, i/Min.jpg"
+  },
+  {
+    "lat": "50.123636",
+    "lng": "8.918397",
+    "labelText": "NTT",
+    "popupText": "Steven Min (President) Email: Min@netysch.com",
+    "imageSrc": "i/Min.jpg"
+  },
+  {
+    "lat": "54.083336",
+    "lng": "12.108811",
+    "labelText": "IGP",
+    "popupText": "Wilko Flügge (Fraunhofer-Institut für Großstrukturen in der Produktionstechnik, Prof. Dr.-Ing.,Director) Email: igp@igp.com",
+    "imageSrc": "i/Wilko.jpg"
+  },
+  {
+    "lat": "53.9258",
+    "lng": "9.5161",
+    "labelText": "ISIT",
+    "popupText": "Müller-Groeling, Axel (Director) Email: ISIT@ISIT.com",
+    "imageSrc": "i/mueller.jpg"
+  },
+  {
+    "lat": "53.5511",
+    "lng": "9.9937",
+    "labelText": "IAPT",
+    "popupText": "Ingomar Kelbassa (Director) Email: https://bit.ly/3OhJgSU  Phone +49 40 484010508",
+    "imageSrc": "i/Kelbassa.jpg"
+  },
+  {
+    "lat": "53.0793",
+    "lng": "8.8017",
+    "labelText": "IFAM",
+    "popupText": "Matthew Buses (Prof. Dr.-Ing, habil. , Director) Email:https://bit.ly/4417tCO Telephone +49 421 2246-101",
+    "imageSrc": "i/Matthew.jpg"
+  },
+  {
+    "lat": "52.2689",
+    "lng": "10.5268",
+    "labelText": "TU Braunschweig",
+    "popupText": "Thorben Dammeyer (Dr.  ,Geschäftsführer LENA) Email: t.dammeyer@tu-braunschweig.de  Tel. 0531 391-65301",
+    "imageSrc": "i/Thorben.jpg"
+  },
+  {
+    "lat": "52.52",
+    "lng": "13.405",
+    "labelText": "HHI",
+    "popupText": "Martin Schell (Prof. Dr. rer. nat.,Executive Director) Email:martin.schell@hhi.fraunhofer.de; Phone +49 30 31002-202",
+    "imageSrc": "i/Martin.jpg"
+  },
+  {
+    "lat": "52.52",
+    "lng": "13.405",
+    "labelText": "IPK",
+    "popupText": "Eckart Uhlmann (Dr -Ing ,Director); Email: eckart.uhlmann@ipk.fraunhofer.de; Phone +49 30 39006-100",
+    "imageSrc": "i/eckart.jpg"
+  },
+  {
+    "lat": "52.2689",
+    "lng": "10.5268",
+    "labelText": "IST",
+    "popupText": "Carol Brand (Dr., Assistant to the Director of the Institute),Email:https://bit.ly/3Qx3H10 , Telephone +49 531 2155-574",
+    "imageSrc": "i/Carola.jpg"
+  },
+  {
+    "lat": "52.1205",
+    "lng": "11.6276",
+    "labelText": "IFF",
+    "popupText": "Julia Arlinghaus (Head of Institute), Email:julia.arlinghaus@iff.fraunhofer.de ; Telephone +49 391 4090-477",
+    "imageSrc": "i/julia.jpg"
+  },
+  {
+    "lat": "52.2196",
+    "lng": "6.8951",
+    "labelText": "Utwente",
+    "popupText": "J.T.F. KEURENTJES (Director of the Centre for Energy Innovation); Email:j.t.f.keurentjes@utwente.nl; Phone:+31534899862",
+    "imageSrc": "i/keurentjes.jpg"
+  },
+  {
+    "lat": "51.9607",
+    "lng": "7.6261",
+    "labelText": "WWU",
+    "popupText": "Martin WINTER (Scientific Director); Email: martin.winter@uni-muenster.de; Tel.: +49 251 83-36033",
+    "imageSrc": "i/Winter_Martin.jpg"
+  },
+  {
+    "lat": "51.719",
+    "lng": "8.7545",
+    "labelText": "IEM",
+    "popupText": "Ansgar Trachtler (Head of Institute); Email:https://bit.ly/47ptjmK ;Telephone +49 5251 5465-101",
+    "imageSrc": "i/Ansgar.jpg"
+  },
+  {
+    "lat": "51.4964",
+    "lng": "6.8518",
+    "labelText": "UMSICHT",
+    "popupText": "Manfred Renner (Intitute Director); Email: https://bit.ly/3Qs59li; Telephone +49 208 8598-1411",
+    "imageSrc": "i/manfred.jpg"
+  },
+  {
+    "lat": "51.5136",
+    "lng": "7.4653",
+    "labelText": "IML",
+    "popupText": "Michael ten Hompel (Executive director of the institute), Email:michael.ten.hompel@iml.fraunhofer.de ;Telephone +49 231 9743-600",
+    "imageSrc": "i/Michael.jpg"
+  },
+  {
+    "lat": "50.7753",
+    "lng": "6.0839",
+    "labelText": "IPT",
+    "popupText": "Christian Breche(institute director); Email: https://bit.ly/3qk1fAf;Telephone +49 241 8904-102",
+    "imageSrc": "i/ChristianBrecher.jpg"
+  },
+  {
+    "lat": "50.7753",
+    "lng": "6.0839",
+    "labelText": "ILT",
+    "popupText": "Arnold Gilner(Head of Business Development Department) Email:arnold.gillner@ilt.fraunhofer.de;Telefone +49 241 8906-148",
+    "imageSrc": "i/Arnold.jpeg"
+  },
+  {
+    "lat": "50.7753",
+    "lng": "6.0839",
+    "labelText": "RWTH",
+    "popupText": "",
+    "imageSrc": ""
+  },
+  {
+    "lat": "51.8028",
+    "lng": "10.3414",
+    "labelText": "TU Clausthal",
+    "popupText": "",
+    "imageSrc": ""
+  },
+  {
+    "lat": "51.3127",
+    "lng": "9.4797",
+    "labelText": "IEE",
+    "popupText": "",
+    "imageSrc": ""
+  }
+]
