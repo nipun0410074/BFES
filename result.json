@@ -17,14 +17,14 @@
     "lat": "54.083336",
     "lng": "12.108811",
     "labelText": "IGP",
-    "popupText": "Wilko Flügge (Fraunhofer-Institut für Großstrukturen in der Produktionstechnik, Prof. Dr.-Ing.,Director) Email: igp@igp.com",
+    "popupText": "Wilko FlÃ¼gge (Fraunhofer-Institut fÃ¼r GroÃŸstrukturen in der Produktionstechnik, Prof. Dr.-Ing.,Director) Email: igp@igp.com",
     "imageSrc": "i/Wilko.jpg"
   },
   {
     "lat": "53.9258",
     "lng": "9.5161",
     "labelText": "ISIT",
-    "popupText": "Müller-Groeling, Axel (Director) Email: ISIT@ISIT.com",
+    "popupText": "MÃ¼ller-Groeling, Axel (Director) Email: ISIT@ISIT.com",
     "imageSrc": "i/mueller.jpg"
   },
   {
@@ -45,7 +45,7 @@
     "lat": "52.2689",
     "lng": "10.5268",
     "labelText": "TU Braunschweig",
-    "popupText": "Thorben Dammeyer (Dr.  ,Geschäftsführer LENA) Email: t.dammeyer@tu-braunschweig.de  Tel. 0531 391-65301",
+    "popupText": "Thorben Dammeyer (Dr.  ,GeschÃ¤ftsfÃ¼hrer LENA) Email: t.dammeyer@tu-braunschweig.de  Tel. 0531 391-65301",
     "imageSrc": "i/Thorben.jpg"
   },
   {
@@ -129,8 +129,8 @@
     "lat": "50.7753",
     "lng": "6.0839",
     "labelText": "RWTH",
-    "popupText": "",
-    "imageSrc": ""
+    "popupText": "Achim Kampker(Founder and Chairholder of PEM);Email:A.Kampker@pem.rwth-aachen.de;Phone:+49 241 80 27406",
+    "imageSrc": "i/Achim.jpeg"
   },
   {
     "lat": "51.8028",
